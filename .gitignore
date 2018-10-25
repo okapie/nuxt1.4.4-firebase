@@ -18,3 +18,6 @@ nuxt
 
 # Other
 .DS_Store
+
+# Built files
+public/assets/
